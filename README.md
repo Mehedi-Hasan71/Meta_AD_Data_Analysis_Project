@@ -101,8 +101,13 @@ Add dashboard screenshots in the repository and display them here.
 
 Example:
 
-![Dashboard Overview(Instagram)]
-(<img width="668" height="380" alt="image" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29" />)
+## 📸 Dashboard Overview (Instagram)
+
+<img width="900" alt="Dashboard Overview (Instagram)" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29">
+
+**Instagram Dashboard View**
+
+This dashboard provides a comprehensive analysis of Instagram advertising performance, featuring key KPIs such as Impressions, Clicks, Engagement Rate, Conversion Rate, Purchases, and Budget Analysis. It also includes audience segmentation by age and gender, engagement trends, geographic performance, and ad type effectiveness to support data-driven marketing decisions.
 
 
 
