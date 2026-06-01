@@ -15,7 +15,9 @@ This dashboard provides a comprehensive analysis of Facebook advertising perform
 
 ## 📸 Dashboard Overview (Instagram)
 
-<img width="900" alt="Dashboard Overview (Instagram)" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29">
+
+<img width="668" height="377" alt="Screenshot 2026-06-02 000902" src="https://github.com/user-attachments/assets/0221938b-d7e0-4b86-a03f-46b4b9ec0a1c" />
+
 
 **Instagram Dashboard View**
 
