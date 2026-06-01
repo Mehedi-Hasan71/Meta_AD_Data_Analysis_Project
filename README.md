@@ -4,6 +4,23 @@
 
 This project presents a comprehensive Meta (Facebook & Instagram) advertising performance analysis dashboard developed using Power BI. The dashboard helps marketing teams monitor campaign performance, evaluate audience engagement, analyze conversion effectiveness, and make data-driven decisions to optimize advertising strategies.
 
+
+## 📸 Dashboard Overview (Facebook)
+
+<img width="900" alt="Dashboard Overview (Facebook)" src="https://github.com/user-attachments/assets/b78125c3-c1ab-4b89-a4da-28b8c609a83a">
+
+**Facebook Dashboard View**
+
+This dashboard provides a comprehensive analysis of Facebook advertising performance, showcasing key business metrics including Impressions, Clicks, CTR, Engagement Rate, Conversion Rate, Purchases, and Campaign Budget. Through interactive visualizations, users can explore audience demographics, engagement patterns, campaign effectiveness, geographic performance, and ad format comparisons. The dashboard enables stakeholders to identify growth opportunities, optimize marketing strategies, and improve overall campaign ROI through data-driven decision-making.
+
+## 📸 Dashboard Overview (Instagram)
+
+<img width="900" alt="Dashboard Overview (Instagram)" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29">
+
+**Instagram Dashboard View**
+
+This dashboard provides a comprehensive analysis of Instagram advertising performance, featuring key KPIs such as Impressions, Clicks, Engagement Rate, Conversion Rate, Purchases, and Budget Analysis. It also includes audience segmentation by age and gender, engagement trends, geographic performance, and ad type effectiveness to support data-driven marketing decisions.
+
 ## 🎯 Business Objective
 
 The primary objective of this project is to:
@@ -94,23 +111,6 @@ Users can dynamically filter data by:
 * Optimize ad delivery schedules based on peak engagement hours.
 * Focus marketing efforts on high-converting geographic regions.
 * Continuously monitor CTR, Engagement Rate, and Conversion Rate to improve ROI.
-
-## 📸 Dashboard Preview
-
-Add dashboard screenshots in the repository and display them here.
-
-Example:
-
-## 📸 Dashboard Overview (Instagram)
-
-<img width="900" alt="Dashboard Overview (Instagram)" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29">
-
-**Instagram Dashboard View**
-
-This dashboard provides a comprehensive analysis of Instagram advertising performance, featuring key KPIs such as Impressions, Clicks, Engagement Rate, Conversion Rate, Purchases, and Budget Analysis. It also includes audience segmentation by age and gender, engagement trends, geographic performance, and ad type effectiveness to support data-driven marketing decisions.
-
-
-
 
 
 
