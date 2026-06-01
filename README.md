@@ -101,13 +101,11 @@ Add dashboard screenshots in the repository and display them here.
 
 Example:
 
-![Dashboard Overview (Instagram)](<img width="668" height="380" alt="image" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29" />
+![Dashboard Overview(Instagram)]
+(<img width="668" height="380" alt="image" src="https://github.com/user-attachments/assets/b3875e60-6d59-40ab-8e69-742c1820cd29" />)
 
-)
 
 
-![Dashboard Overview (FaceBook)](<img width="668" height="377" alt="image" src="https://github.com/user-attachments/assets/2d456692-5c12-4a3e-975b-9982ad455eab" />
-)
 
 
 
